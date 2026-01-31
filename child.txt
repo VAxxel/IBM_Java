@@ -1,1 +1,2 @@
-Este sera un txt de como se agrega un nuevo archivo en una rama distinta
+Este sera un txt de como se agrega un nuevo archivo en una rama distinta, con esto podremos revisar
+y valorar que se haga un cambio en la rama y no afecte la rama main
